@@ -1,0 +1,28 @@
+name: healthcare
+favicon: null
+layout_spectrum: 0.5927982958965003
+typography_spectrum: 0.20517648826353252
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2308182914275676
+  lightness: 0.5468041489366442
+  saturation: 0.717110114172101
+  rhythmicContrast: 0.7582273508887738
+purpose: []
